@@ -16,7 +16,7 @@
 ### 🏆 Sertifikat & Penghargaan
 
 * **Sertifikat Magang Jakarta Global University**
-  ![Sertifikat JGU](./sertifikat/sertifikat-jgu.png)
+  ![Sertifikat JGU](./sertifikat/sertifikat-jgu.jpg)
 
 * **Sertifikat Kunjungan Industri Oracle (Format PDF)**
   [Lihat Sertifikat Oracle (PDF)](./sertifikat/sertifikat-oracle.pdf)
