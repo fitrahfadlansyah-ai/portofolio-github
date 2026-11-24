@@ -17,7 +17,7 @@
 ### 🏆 Sertifikat & Penghargaan
 
 * **Sertifikat Magang Jakarta Global University**
-  ![Sertifikat JGU](./sertifikat/sertifikat-jgu.png)
+  ![Sertifikat JGU](./sertifikat/Fitrah Fadlansyah_Java_Fundamentals_–_Bahasa_Indonesia_Award_Of_Completion_on_th.pdf)
 
 * **Sertifikat Kunjungan Industri Oracle (Format PDF)**
   [Lihat Sertifikat Oracle (PDF)](./sertifikat/Fitrah Fadlansyah_Java_Fundamentals_–_Bahasa_Indonesia_Award_Of_Completion_on_th.pdf)
