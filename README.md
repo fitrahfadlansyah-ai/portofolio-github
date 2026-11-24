@@ -19,4 +19,4 @@
   ![Sertifikat JGU](./sertifikat/sertifikat-jgu.jpg)
 
 * **Sertifikat Kunjungan Industri Oracle (Format PDF)**
-  [Lihat Sertifikat Oracle (PDF)](./sertifikat/sertifikat-oracle.pdf)
+sertifikat/Fitrah Fadlansyah_Java_Fundamentals_–_Bahasa_Indonesia_Award_Of_Completion_on_th.pdf
