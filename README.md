@@ -18,3 +18,6 @@
 
 * [Java Fundamentals Award of Completion](./sertifikat/Fitrah%20Fadlansyah_Java_Fundamentals_%E2%80%93_Bahasa_Indonesia_Award_Of_Completion_on_th.pdf)
 * [Sertifikat PKL SMK TI DWIGUNA 2026](./sertifikat/Sertifikat%20PKL%20SMK%20TI%20DWIGUNA%202026_FITRAH%20FADLANSYAH.pdf)
+
+### Game yang pernah saya buat
+*  [Game Scracth](./game/GAME PLATFORMER.capx)
